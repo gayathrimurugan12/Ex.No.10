@@ -61,6 +61,28 @@ content generation scenarios:
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+5.	## prompt:
+6.	Create a professional report titled “Demonstrating Prompt Patterns for Content Creation Using ChatGPT.”
+
+Include:
+
+Introduction – explain prompt engineering and why prompt patterns matter.
+Objective – purpose of using prompt patterns in AI writing.
+Prompt Patterns – briefly describe:
+Query Decomposition
+Answer Engineering
+Tail Generation
+Fact Check List
+Semantic Filter
+Case Study: Tesla – apply the prompt patterns to analyze Tesla’s innovation, strategy, challenges, and future outlook.
+Evaluation Table – compare each prompt pattern by coherence, creativity, accuracy, tone, and readability.
+Conclusion – summarize how prompt patterns improve AI-generated content.
+
+Use formal academic writing, clear headings, and PDF-report style formatting.
+## output:
+
+[Prompt_Patterns_Document.pdf](https://github.com/user-attachments/files/28194987/Prompt_Patterns_Document.pdf)
+
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
